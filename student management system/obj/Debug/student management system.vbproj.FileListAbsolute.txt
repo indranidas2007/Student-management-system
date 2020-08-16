@@ -1,0 +1,41 @@
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\bin\Debug\student management system.exe
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\bin\Debug\student management system.pdb
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\bin\Debug\student management system.xml
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student_management_system.course_add.resources
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student_management_system.Resources.resources
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student management system.vbproj.GenerateResource.Cache
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student management system.exe
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student management system.xml
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student management system.pdb
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student_management_system.course_view.resources
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student_management_system.student_add.resources
+C:\Users\Hamid\Documents\Visual Studio 2008\Projects\student management system\student management system\obj\Debug\student_management_system.student_view.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\bin\Debug\student management system.exe
+C:\Users\Indrani\Desktop\Documents\VB\student management system\bin\Debug\student management system.pdb
+C:\Users\Indrani\Desktop\Documents\VB\student management system\bin\Debug\student management system.xml
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.vbprojAssemblyReference.cache
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student_management_system.course_add.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student_management_system.course_view.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student_management_system.Resources.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student_management_system.student_add.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student_management_system.student_view.resources
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.vbproj.GenerateResource.cache
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.vbproj.CoreCompileInputs.cache
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.exe
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.xml
+C:\Users\Indrani\Desktop\Documents\VB\student management system\obj\Debug\student management system.pdb
+D:\Documents\VB\student management system\bin\Debug\student management system.exe
+D:\Documents\VB\student management system\bin\Debug\student management system.pdb
+D:\Documents\VB\student management system\bin\Debug\student management system.xml
+D:\Documents\VB\student management system\obj\Debug\student management system.vbprojAssemblyReference.cache
+D:\Documents\VB\student management system\obj\Debug\student_management_system.course_add.resources
+D:\Documents\VB\student management system\obj\Debug\student_management_system.course_view.resources
+D:\Documents\VB\student management system\obj\Debug\student_management_system.Resources.resources
+D:\Documents\VB\student management system\obj\Debug\student_management_system.student_add.resources
+D:\Documents\VB\student management system\obj\Debug\student_management_system.student_view.resources
+D:\Documents\VB\student management system\obj\Debug\student management system.vbproj.GenerateResource.cache
+D:\Documents\VB\student management system\obj\Debug\student management system.vbproj.CoreCompileInputs.cache
+D:\Documents\VB\student management system\obj\Debug\student management system.exe
+D:\Documents\VB\student management system\obj\Debug\student management system.xml
+D:\Documents\VB\student management system\obj\Debug\student management system.pdb
